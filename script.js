@@ -9,11 +9,13 @@ let Title =[
 
 const Expo = [
     {
-	    lines: ["Computer Science student, Third year, 1 more semester left. 8200 alumni. GPA 83.5, PET 720.",
-                "Pre university I worked at a software company as an analyst,",
-                "I am used to teamwork, attention to details and have organizational skills,",
-                "Used to speak with foreign team members in English and Absolutely confident!",
-                "I look for a Software developer position part-time / intern / fulltime graduate"
+	    lines: ["Computer Science student, third year, expected graduation at July 2021.",
+		    "8200 alumni. GPA 84, PET 720.",
+                "Java, Python, C, assembly (NASM), Java-Script, HTML, CSS, SQL, C++, Linux, GitHub",
+		"GitHub: https://github.com/kashiy",
+                "LinkedIn: https://www.linkedin.com/in/yuval-kashi/",
+                "I am looking for a fulltime software developer position (graduate)",
+		    "Check out my projects down below",
             ]
     }
     ];
@@ -23,9 +25,9 @@ const Education = [
     {
         place: "B.Sc. Computer Science \55 Ben-Gurion University, Beer Sheva",
         years: "(2018 \55 present)",
-	    lines: ["GPA: 83.5",
+	    lines: ["GPA: 84",
                 "Psychometric Test Score: 720",
-                "Top grades in Architecture and System Programming: 91, Principles of Programming: 88.",
+                "Achieved top grades in Architecture and System Programming: 91, Principles of Programming: 88.",
                 "Participated at the \"Ashalim\" excellence program at my First year."]
     },
     {   
@@ -40,21 +42,21 @@ const Projects = [
     {
         name: "Character Detection",
         lang: ["Python", "OpenCV2"],
-	    lines: ["Detecting rick or morty characters and their positions from a MP4 video"],
+	    lines: ["Detected successfully rick or morty characters and their positions from a MP4 video"],
         images: ["Character3.png","Character4.png","Character5.png","Character6.png","Character7.png","Character8.png","Character9.png","Character1.png","Character2.png"]
     },
     {
         name: "Mission organizer program \55 MI6 agency",
         lang: ["Java with multithreading"],
 	    lines: ["Developed a system that assigns missions to agents in secret service agency.",
-                "Implementing diverse concurrency design patterns such as singleton, call-backs and Synchronization Patterns."],
+                "Implemented diverse concurrency design patterns such as singleton, call-backs and Synchronization Patterns."],
         images: []
     },
     {
         name: "Streaming Service System",
         lang: ["C++"],
-	    lines: ["Used several design patterns such as the Visitor and Double dispatch and Factory.",
-                "Designed an object-oriented system in C++ using the “Rule of 5” including memory management."],
+	    lines: ["Designed an object-oriented system in C++ using the “Rule of 5” including memory management.",
+                "Implemented several design patterns such as the Visitor, Double dispatch and Factory."],
         images: []
     },
     {
