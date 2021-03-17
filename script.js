@@ -59,7 +59,7 @@ const Projects = [
         images: ["Streaming1.png","Streaming2.png","Streaming3.png","Streaming4.png","Streaming5.png","Streaming6.png","Streaming7.png","Streaming8.png"]
     },
     {
-        name: "Web scraper for easy Stocks data getter",
+        name: "Web scraper for easy Stocks data",
         lang: ["Python"],
 	    lines: ["Created a script that generates excel sheets with preferred stocks data by using python packages."],
         images: ["stocks1.png","stocks2.png","stocks3.png","stocks4.png","stocks5.png"]
