@@ -73,6 +73,13 @@ const Projects = [
 	    lines: ["Resume website designed with passion to make another interactive way to check out my skills.",
 		    "<a target=\"_blank\" href=\"https://github.com/kashiy/yuvalkashiCV.github.io\" style=\"color: blue;\"> GitHub: Resume website </a>"],
         images: ["Resume1.png","Resume2.png","Resume3.png","Resume4.png"]
+    },
+{
+        name: "Scheme compiler",
+        lang: ["Assembly X86", "OCaml", "Scheme"],
+	    lines: ["Compiler written in OCaml that compiles Chez Scheme to x86_64 Assembly.",
+		    "<a target=\"_blank\" href=\"https://github.com/kashiy/scheme-compiler-with-ocaml-and-assembly\" style=\"color: blue;\"> GitHub: Scheme compiler </a>"],
+        images: ["scheme1.png","scheme2.png","scheme3.png","scheme4.png"]
     }];
 
 
