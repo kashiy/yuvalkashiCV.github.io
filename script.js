@@ -42,7 +42,7 @@ const Projects = [
         name: "Character Detection",
         lang: ["Python", "OpenCV2"],
 	    lines: ["Detected successfully rick or morty characters and their positions from a MP4 video",
-		    "<a target=\"_blank\" href=\"https://github.com/kashiy/Character_Detection\"> GitHub: Character_Detection </a>"],
+		    "<a target=\"_blank\" href=\"https://github.com/kashiy/Character_Detection\" style=\"color: blue;\"> GitHub: Character_Detection </a>"],
         images: ["Character3.png","Character4.png","Character5.png","Character6.png","Character7.png","Character8.png","Character9.png","Character1.png","Character2.png"]
     },
     {
@@ -50,7 +50,7 @@ const Projects = [
         lang: ["Java with multithreading"],
 	    lines: ["Developed a system that assigns missions to agents in secret service agency.",
                 "Implemented diverse concurrency design patterns such as singleton, call-backs and Synchronization Patterns.",
-		    "<a target=\"_blank\" href=\"https://github.com/kashiy/MI6c\"> GitHub: MI6c </a>"],
+		    "<a target=\"_blank\" href=\"https://github.com/kashiy/MI6c\" style=\"color: blue;\"> GitHub: MI6c </a>"],
         images: []
     },
     {
@@ -58,7 +58,7 @@ const Projects = [
         lang: ["C++"],
 	    lines: ["Designed an object-oriented system in C++ using the “Rule of 5” including memory management.",
                 "Implemented several design patterns such as the Visitor, Double dispatch and Factory.",
-		    "<a target=\"_blank\" href=\"https://github.com/kashiy/SPLFLIX1\"> GitHub: SPLFLIX1 </a>"],
+		    "<a target=\"_blank\" href=\"https://github.com/kashiy/SPLFLIX1\" style=\"color: blue;\"> GitHub: SPLFLIX1 </a>"],
         images: ["Streaming1.png","Streaming2.png","Streaming3.png","Streaming4.png","Streaming5.png","Streaming6.png","Streaming7.png","Streaming8.png"]
     },
     {
@@ -71,7 +71,7 @@ const Projects = [
         name: "Resume website",
         lang: ["Java Script", "HTML", "CSS"],
 	    lines: ["Resume website designed with passion to make another interactive way to check out my skills.",
-		    "<a target=\"_blank\" href=\"https://github.com/kashiy/yuvalkashiCV.github.io\"> GitHub: Resume website </a>"],
+		    "<a target=\"_blank\" href=\"https://github.com/kashiy/yuvalkashiCV.github.io\" style=\"color: blue;\"> GitHub: Resume website </a>"],
         images: ["Resume1.png","Resume2.png","Resume3.png","Resume4.png"]
     }];
 
