@@ -58,7 +58,7 @@ const Projects = [
         lang: ["C++"],
 	    lines: ["Designed an object-oriented system in C++ using the “Rule of 5” including memory management.",
                 "Implemented several design patterns such as the Visitor, Double dispatch and Factory.",
-		    "<a target=\"_blank\" href=\"https://github.com/kashiy/SPLFLIX1\" style=\"color: blue;\"> GitHub: SPLFLIX1 </a>"],
+		    "<a target=\"_blank\" href=\"https://github.com/kashiy/kashiy-SPLFLIX---netflix-platform\" style=\"color: blue;\"> GitHub: SPLFLIX1 </a>"],
         images: ["Streaming1.png","Streaming2.png","Streaming3.png","Streaming4.png","Streaming5.png","Streaming6.png","Streaming7.png","Streaming8.png"]
     },
     {
