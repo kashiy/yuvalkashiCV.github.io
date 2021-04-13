@@ -51,7 +51,7 @@ const Projects = [
 	    lines: ["Developed a system that assigns missions to agents in secret service agency.",
                 "Implemented diverse concurrency design patterns such as singleton, call-backs and Synchronization Patterns.",
 		    "<a target=\"_blank\" href=\"https://github.com/kashiy/MI6c\" style=\"color: blue;\"> GitHub: MI6c </a>"],
-        images: []
+        images: ["agency1.png","agency2.png","agency3.png","agency4.png","agency5.png","agency6.png"]
     },
     {
         name: "Streaming Service System",
