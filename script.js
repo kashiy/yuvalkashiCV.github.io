@@ -69,7 +69,7 @@ const Projects = [
     },
     {
         name: "Resume website",
-        lang: ["Java Script", "HTML", "CSS"],
+        lang: ["JavaScript", "HTML", "CSS"],
 	    lines: ["Resume website designed with passion to make another interactive way to check out my skills.",
 		    "<a target=\"_blank\" href=\"https://github.com/kashiy/yuvalkashiCV.github.io\" style=\"color: blue;\"> GitHub: Resume website </a>"],
         images: ["Resume1.png","Resume2.png","Resume3.png","Resume4.png"]
