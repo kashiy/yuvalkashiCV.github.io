@@ -54,6 +54,15 @@ const Projects = [
         images: ["agency1.png","agency2.png","agency3.png","agency4.png","agency5.png","agency6.png"]
     },
     {
+        name: "TextSwap2 - swap english to hebrew",
+        lang: ["Java with SOLID OOP principles"],
+	    lines: ["Convert your gibrish english to hebrew with one click!",
+		    "Just copy the text, click on swap button and the hebrew is already waiting on clipboard for you to paste.",
+                	"Implemented with a GUI as a singleton and SOLID OOP principles.",
+		    "<a target=\"_blank\" href=\"https://github.com/kashiy/TextSwap2\" style=\"color: blue;\"> GitHub: TextSwap2 </a>"],
+        images: ["textSwap1.png","textSwap2.png","textSwap3.png","textSwap4.png","textSwap5.png","textSwap6.png"]
+    },
+    {
         name: "Streaming Service System",
         lang: ["C++"],
 	    lines: ["Designed an object-oriented system in C++ using the “Rule of 5” including memory management.",
