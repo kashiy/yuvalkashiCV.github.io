@@ -60,7 +60,7 @@ const Projects = [
 		    "Just copy the text, click on swap button and the hebrew is already waiting on clipboard for you to paste.",
                 	"Implemented with a GUI as a singleton and SOLID OOP principles.",
 		    "<a target=\"_blank\" href=\"https://github.com/kashiy/TextSwap2\" style=\"color: blue;\"> GitHub: TextSwap2 </a>"],
-        images: ["textSwap1.png","textSwap2.png","textSwap3.png","textSwap4.png","textSwap5.png","textSwap6.png"]
+        images: ["textswap1.png","textswap2.png","textswap3.png","textswap4.png","textswap5.png","textswap6.png"]
     },
     {
         name: "Streaming Service System",
